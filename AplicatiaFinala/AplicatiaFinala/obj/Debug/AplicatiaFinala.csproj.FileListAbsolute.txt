@@ -1,0 +1,18 @@
+D:\Visual Studio proiecte\AplicatiaFinala\AplicatiaFinala\bin\Debug\AplicatiaFinala.exe.config
+D:\Visual Studio proiecte\AplicatiaFinala\AplicatiaFinala\bin\Debug\AplicatiaFinala.exe
+D:\Visual Studio proiecte\AplicatiaFinala\AplicatiaFinala\bin\Debug\AplicatiaFinala.pdb
+D:\Visual Studio proiecte\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.csprojResolveAssemblyReference.cache
+D:\Visual Studio proiecte\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.Form1.resources
+D:\Visual Studio proiecte\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.Properties.Resources.resources
+D:\Visual Studio proiecte\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.csproj.GenerateResource.Cache
+D:\Visual Studio proiecte\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.exe
+D:\Visual Studio proiecte\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.pdb
+C:\Users\Dragos\Desktop\AplicatiaFinala\AplicatiaFinala\bin\Debug\AplicatiaFinala.exe.config
+C:\Users\Dragos\Desktop\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.exe
+C:\Users\Dragos\Desktop\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.pdb
+C:\Users\Dragos\Desktop\AplicatiaFinala\AplicatiaFinala\bin\Debug\AplicatiaFinala.exe
+C:\Users\Dragos\Desktop\AplicatiaFinala\AplicatiaFinala\bin\Debug\AplicatiaFinala.pdb
+C:\Users\Dragos\Desktop\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.csprojResolveAssemblyReference.cache
+C:\Users\Dragos\Desktop\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.Form1.resources
+C:\Users\Dragos\Desktop\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.Properties.Resources.resources
+C:\Users\Dragos\Desktop\AplicatiaFinala\AplicatiaFinala\obj\Debug\AplicatiaFinala.csproj.GenerateResource.Cache
